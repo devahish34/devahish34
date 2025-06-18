@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java and Data Structures**
 
-- 💬 Ask me about **Python, C**
+- 💬 Ask me about **Java, C, C++, SQL, Python**
 
 - 📫 How to reach me **deva34raj@gmail.com**
 
